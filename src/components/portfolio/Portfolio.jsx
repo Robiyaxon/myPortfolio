@@ -6,7 +6,6 @@ import IMG3 from "../../assets/prt6.png";
 import IMG4 from "../../assets/prt9.jpeg";
 import IMG5 from "../../assets/ptr2.png";
 import IMG6 from "../../assets/ptr3.png";
-import IMG7 from "../../assets/ptr4.png";
 import IMG8 from "../../assets/ptr7.png";
 
 const data = [

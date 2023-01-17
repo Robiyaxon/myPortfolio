@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 /* eslint-disable eqeqeq */
 import { Component } from "react";
 import { AiOutlineHome } from "react-icons/ai";
@@ -6,7 +7,6 @@ import { BiBook } from "react-icons/bi";
 import { RiServiceLine } from "react-icons/ri";
 import { BiMessageSquareDetail } from "react-icons/bi";
 import "./nav.css";
-import { useState } from "react";
 
 class Nav extends Component {
   constructor() {

@@ -1,7 +1,6 @@
 import { Component } from "react";
 import { BsLinkedin, BsTelegram } from "react-icons/bs";
 import { FaGithub } from "react-icons/fa";
-import { FiDribbble } from "react-icons/fi";
 class HeaderSocials extends Component {
   render() {
     return (
