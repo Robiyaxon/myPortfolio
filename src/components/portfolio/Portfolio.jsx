@@ -51,13 +51,6 @@ const data = [
     github: "https://github.com/inextdeve",
     demo: "https://robiyaxon.github.io/game/"
   },
-  // {
-  //   id: 7,
-  //   image: IMG7,
-  //   title: "HealthUp",
-  //   github: "https://github.com/inextdeve",
-  //   demo: "https://healthyup.netlify.app/"
-  // },
   {
     id: 8,
     image: IMG2,

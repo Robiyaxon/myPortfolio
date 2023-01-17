@@ -1,8 +1,8 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import { Component } from "react";
 import { BsTelegram } from "react-icons/bs";
 import { FaLinkedin } from "react-icons/fa";
 import {
-  IoLogoTwitter
 } from "react-icons/io";
 import { MdEmail } from "react-icons/md";
 import "./footer.css";
