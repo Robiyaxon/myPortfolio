@@ -21,7 +21,7 @@ class About extends Component {
               <article className="about__card">
                 <BsAwardFill className="about__icon" />
                 <h5>Experience</h5>
-                <small>1.5+ Years Working</small>
+                <small>1 . 5+ Years Working</small>
               </article>
               <article className="about__card">
                 <FiUsers className="about__icon" />
