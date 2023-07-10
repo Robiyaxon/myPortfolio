@@ -7,6 +7,8 @@ import IMG4 from "../../assets/prt9.jpeg";
 import IMG5 from "../../assets/ptr2.png";
 import IMG6 from "../../assets/ptr3.png";
 import IMG8 from "../../assets/ptr7.png";
+import IMG9 from "../../assets/andijon.png";
+import IMG10 from "../../assets/learning.png";
 
 const data = [
   {
@@ -24,12 +26,27 @@ const data = [
     demo: "https://andijan-football.netlify.app/"
   },
   {
+    id: 9,
+    image: IMG9,
+    title: "Andijon Fan va inavatsiyalar vazirligi",
+    github: "https://github.com/inextdeve",
+    demo: "https://andijon-fan-inavatsiyalar.netlify.app/"
+  },
+  {
+    id: 10,
+    image: IMG10,
+    title: "Perfect Learning",
+    github: "https://github.com/inextdeve",
+    demo: "https://perfect-learn.netlify.app/"
+  },
+  {
     id: 3,
     image: IMG8,
     title: "Hospital",
     github: "https://github.com/inextdeve",
     demo: "https://diplomishi.netlify.app/"
   },
+  
   {
     id: 4,
     image: IMG4,
