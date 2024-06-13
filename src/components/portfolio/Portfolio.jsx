@@ -7,8 +7,9 @@ import IMG4 from "../../assets/prt9.jpeg";
 import IMG5 from "../../assets/ptr2.png";
 import IMG6 from "../../assets/ptr3.png";
 import IMG8 from "../../assets/ptr7.png";
-import IMG9 from "../../assets/andijon.png";
+import IMG9 from "../../assets/andijon.jpg";
 import IMG10 from "../../assets/learning.png";
+import IMG11 from "../../assets/apollo.jpg";
 
 const data = [
   {
@@ -19,6 +20,13 @@ const data = [
     demo: "https://cyber-sport.netlify.app/"
   },
   {
+    id: 9,
+    image: IMG9,
+    title: "Online Andijon",
+    github: "https://github.com/inextdeve",
+    demo: "https://andijon-turism.netlify.app/"
+  },
+  {
     id: 2,
     image: IMG1,
     title: "Andijan Sport",
@@ -26,12 +34,13 @@ const data = [
     demo: "https://andijan-football.netlify.app/"
   },
   {
-    id: 9,
-    image: IMG9,
-    title: "Andijon Fan va inavatsiyalar vazirligi",
-    github: "https://github.com/inextdeve",
-    demo: "https://andijon-fan-inavatsiyalar.netlify.app/"
+    id: 13,
+    image: IMG11,
+    title: "Testtiviy zadaniya uchun berilgan",
+    github: "https://appillo1.netlify.app/",
+    demo: "https://andijan-football.netlify.app/"
   },
+ 
   {
     id: 10,
     image: IMG10,
@@ -53,13 +62,6 @@ const data = [
     title: "Ekabu",
     github: "https://github.com/inextdeve",
     demo: "https://robiyaxon.github.io/EkabuMebel/"
-  },
-  {
-    id: 5,
-    image: IMG5,
-    title: "Raven    ",
-    github: "https://github.com/inextdeve",
-    demo: "https://robiyaxon.github.io/Robiya-coder-Markaz/"
   },
   {
     id: 6,
