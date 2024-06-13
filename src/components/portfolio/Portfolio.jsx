@@ -35,7 +35,7 @@ const data = [
   {
     id: 13,
     image: IMG11,
-    title: "Testtiviy zadaniya uchun berilgan",
+    title: "Test uchun berilgan ",
     github: "https://appillo1.netlify.app/",
     demo: "https://andijan-football.netlify.app/"
   },
